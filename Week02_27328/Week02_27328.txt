@@ -1,0 +1,7 @@
+2. a. jika dikosongkan pada kedua angka maka aplikasi akan force close karena tidak ada inputan. Untuk memperbaikinya dapat dilakukan pengecekkan apakah angka 1 dan angka 2 ada isinya sebelum dilakukan Double.parseDouble
+b. jika dikosongkan pada angka 2 maka aplikasi akan force close karena tidak ada inputan. Untuk memperbaikinya dapat dilakukan pengecekkan apakah angka 1 dan angka 2 ada isinya sebelum dilakukan Double.parseDouble
+c. jika angka 2 adalah 0 maka hasil akan mengeluarkan infinity karena tak terhingga, untuk memperbaikinya mungkin dilakukan warning saat kita mengklik button bagi sebelum program akan mengeluarkan hasil
+3. debugger step over maka dia akan menjalakan baris dimana dia berhenti lalu ke baris berikutnya dan berhenti sebentar.
+debugger step into jika ditempat dia berhenti memanggil sebuah metode, maka debugger akan masuk ke metode itu.
+debugget step out dimana debugger akan menyelesaikan sampai akhir dan kembali ke barise semula dimana kita melakukan step into.
+resume akan melanjutkan program hingga selesai.
