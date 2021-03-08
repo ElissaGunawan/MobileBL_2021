@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week06_27328</string>
+    <string name="AnimasiProperty">Animasi Property</string>
+    <string name="AnimasiDrawable">Animasi Drawable</string>
+    <string name="IlmuFisika">Animasi Ilmu Fisika</string>
+    <string name="HaloSpring">Halo\nSpring</string>
+    <string name="HaloFling">Halo\nFling</string>
+</resources>
