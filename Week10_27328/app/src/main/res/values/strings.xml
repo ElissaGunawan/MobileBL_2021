@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week10_27328</string>
+    <string name="AsyncTask">Async Task</string>
+    <string name="AsyncTaskLoader">Async Task Loader</string>
+    <string name="Service">Service</string>
+    <string name="StartService">Mulai Service</string>
+    <string name="ShowTime">Tampilkan Waktu</string>
+</resources>
